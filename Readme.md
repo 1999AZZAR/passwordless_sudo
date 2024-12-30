@@ -15,7 +15,7 @@ This guide explains how to configure passwordless `sudo` access for a user on Li
 
 1. Download the configuration script:
    ```bash
-   curl -O https://raw.githubusercontent.com/1999azzar/passwordless_sudo/main/passwordless_sudo.sh
+   curl -O https://raw.githubusercontent.com/1999azzar/passwordless_sudo/master/passwordless_sudo.sh
    ```
 
 2. Make it executable:
